@@ -1,5 +1,12 @@
 # @backstage/plugin-codescene
 
+## 0.1.13-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.13.1-next.0
+
 ## 0.1.12
 
 ### Patch Changes
